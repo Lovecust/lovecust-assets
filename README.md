@@ -46,4 +46,23 @@
 	- Ecust Calendar
 	- Ecust JWC news
 
+### lovecust.[v0.9.3](https://github.com/lovecust/lovecust-assets/raw/master/releases/lovecust.v0.9.3.apk).apk
 
+- name: Lovecust
+- date: 2016-05-13
+- size: 3.40MB
+- md5: 7d3d877f506362527d8fea6d5430c43f
+- sha1: 008adde2501e4b89521364454a3b132d5642de9f
+- url: https://github.com/lovecust/lovecust-assets/raw/master/releases/lovecust.v0.9.3.apk
+- note
+	- 学号支持字母
+	- 添加晨跑查询
+	- 支持页面右划退出
+	- 优化wifi自动连接notification提示
+	- 增加wifi手动连接
+	- 添加开发者模式
+	- alphabets are supported in campus id
+	- moring exercise query is available
+	- swipe right to exit pages
+	- friendly notification during the wifi connection
+	- add developer mode in the app
