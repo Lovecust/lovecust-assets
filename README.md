@@ -18,6 +18,12 @@ Some static files are organized as shown below.
 │   │   ├── lovecust-ecust-calendar-framed-min.png
 │   │   ├── lovecust-ecust-library-framed-min.png
 │   │   └── lovecust-ecust-wifi-framed-min.png
+│   ├── commons.wikimedia.org
+│   │   ├── LICENSE
+│   │   ├── Portrait_Placeholder_72x72.png
+│   │   ├── Portrait_Placeholder_144x144.png
+│   │   ├── Portrait_Placeholder_288x288.png
+│   │   └── Portrait_Placeholder.png
 │   ├── ecust-calendar-2015b.jpg
 │   ├── ecust-calendar-2015b.png
 │   ├── ecust-calendar-2016a.jpg
