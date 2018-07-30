@@ -45,6 +45,8 @@ Some static files are organized as shown below.
 │   └── screenshots
 │       ├── 3d-ecust-a.png
 │       └── 3d-ecust-b.png
+├── scripts
+│    └── ace-builds # mirror of https://github.com/ajaxorg/ace-builds
 ├── styles
 │    └── bootstrap
 ├── favicon.ico
