@@ -1,5 +1,5 @@
 [submodule "scripts/ace-builds"]
-	path = scripts/ace-builds
+	path = libs/ace-builds
 	url = https://github.com/ajaxorg/ace-builds.git
 [submodule "libs/highlight.js"]
 	path = libs/highlight.js

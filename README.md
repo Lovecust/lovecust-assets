@@ -45,10 +45,9 @@ Some static files are organized as shown below.
 │   └── screenshots
 │       ├── 3d-ecust-a.png
 │       └── 3d-ecust-b.png
-├── scripts
-│    └── ace-builds # mirror of https://github.com/ajaxorg/ace-builds
-├── styles
-│    └── bootstrap
+├── libs
+│   ├── ace-builds # mirror of https://github.com/ajaxorg/ace-builds
+│   └── highlight.js # mirror of https://github.com/highlightjs/cdn-release
 ├── favicon.ico
 ├── index.html
 └── README.md
